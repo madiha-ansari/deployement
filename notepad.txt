@@ -1,0 +1,2 @@
+:\ramdan> uv init deployement
+uv add fastapi[standard] streamlit
